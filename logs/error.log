@@ -1,0 +1,1 @@
+[Sun Oct 19 21:24:17.012512 2014] [:error] [pid 5952:tid 1960] [client 127.0.0.1:59708] script 'C:/xampp/htdocs/parser.tt/www/test.php' not found or unable to stat, referer: http://parser.tt/
